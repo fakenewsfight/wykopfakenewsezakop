@@ -1,4 +1,4 @@
-# Project Title
+# Wykop FakeNewsZakop
 
 Wtyczka do Chrome do automatycznego zakopywania znalezisk z wybranych domen.
 
